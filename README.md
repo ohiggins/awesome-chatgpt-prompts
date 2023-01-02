@@ -53,6 +53,7 @@ The _unofficial_ ChatGPT desktop application provides a convenient way to access
 ## Act as a reasearcher
 explain svm in the context of machine learning with in text citations and reference list
 include in text citations
+rewrite above using apa 7 style referencing 
 
 ## Act as a Linux Terminal
 Contributed by: [@f](https://github.com/f)
